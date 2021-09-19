@@ -2,6 +2,9 @@
     color:chocolate;
 }
 h2{
+    color: dodgerblue;
+}
+h2:hover{
     color:darkblue
 }
 .subtitle{
@@ -9,4 +12,16 @@ h2{
 }
 #services{
     color: darkred;
+}
+li:first-child{
+    color :deeppink;
+}
+a:link{
+    color:dodgerblue;
+}
+a:visited{
+    color:orange;
+}
+a:hover{
+    color :orchid;
 }
